@@ -24,6 +24,12 @@ and respringing the device, killing backboardd
 Ahh, `killall backboard` sometimes does that! simply restart.
 since the old icloud user data is gone, you will be in home screen, not in setup.app.
 
+## Dosen't Work!
+that's your fault dumbo.
+our method is completely simple.
+
+## Shell code?
+in late 2021.
 
 ## Credits
 Me =)
