@@ -5,7 +5,7 @@ if you are on mac, you will need to compile using `gcc bypass.c -o bypass` and r
 not work!
 ok so... now on linux?
 ## Linux
-simply download the latest release and `./bypass` and your done! 
+simply download the latest release and `./bypassr` and your done! 
 it's completely made in C
 ## Windows
 hey hey, its a shell script! not a c program ok. its made in shell i compiled it to C
