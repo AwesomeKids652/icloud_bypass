@@ -21,8 +21,8 @@ Simply works by clearing the old icloud user cache and deleting setup.app.
 and respringing the device, killing backboardd
 
 ## MY HOME BUTTON IS BROKEN!
-Ahh, `killall backboard` sometimes does that! simply restart.
-since the old icloud user data is gone, you will be in home screen, not in setup.app.
+read ERRORS.md
+and reset to fix this issue.
 
 ## Dosen't Work!
 that's your fault dumbo.
